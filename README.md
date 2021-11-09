@@ -1,2 +1,2 @@
 # 4a-docs
-Desarrollo Proyecto Educativo. Mintic 2022
+Desarrollo Backend en Python de Aplicación Web.
